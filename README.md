@@ -1,2 +1,2 @@
 # PycharmProjects
-python scrapy
+python 爬虫项目
